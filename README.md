@@ -5,9 +5,8 @@ Crafting minds for Minecraft with LLMs and Mineflayer!
 [FAQ](https://github.com/kolbytn/mindcraft/blob/main/FAQ.md) | [Discord Support](https://discord.gg/mp73p35dzC) | [Blog Post](https://kolbynottingham.com/mindcraft/) | [Contributor TODO](https://github.com/users/kolbytn/projects/1)
 
 
-#### ‼️Warning‼️
-
-Do not connect this bot to public servers with coding enabled. This project allows an LLM to write/execute code on your computer. While the code is sandboxed, it is still vulnerable to injection attacks on public servers. Code writing is disabled by default, you can enable it by setting `allow_insecure_coding` to `true` in `settings.js`. We strongly recommend running with additional layers of security such as docker containers. Ye be warned.
+> [!WARNING]
+>Do not connect this bot to public servers with coding enabled. This project allows an LLM to write/execute code on your computer. While the code is sandboxed, it is still vulnerable to injection attacks on public servers. Code writing is disabled by default, you can enable it by setting `allow_insecure_coding` to `true` in `settings.js`. We strongly recommend running with additional layers of security such as docker containers. Ye be warned.
 
 ## Requirements
 
